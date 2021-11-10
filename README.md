@@ -7,8 +7,6 @@
 
 ### 🏠 [Homepage](https://github.com/oizovita/venom)
 
-### ✨ [Demo](https://github.com/oizovita/venom)
-
 ## Usage
 
 ```sh
