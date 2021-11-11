@@ -43,4 +43,4 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2021 [Oles Izovita](https://github.com/oizovita).
 
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/oizovita/venom/blob/master/LICENSE) licensed.
